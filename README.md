@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 [resume](https://www.notion.so/CV-Aleksandr-Shtykov-e87216b8f4194aa2ae44cf5c605e9f65)
+- 🌱 [CV profile](https://www.notion.so/CV-Aleksandr-Shtykov-e87216b8f4194aa2ae44cf5c605e9f65)
 <!--
 **shtbik/shtbik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
