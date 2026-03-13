@@ -8,7 +8,6 @@ Passionate about systems-level design, performance optimisation, and creating sh
 ## 🌐 Connect with me
 
 - 🌱 [LinkedIn](https://www.linkedin.com/in/shtbik/)
-- ✍️ [Medium](https://medium.com/@shtbik)
 
 ---
 
@@ -30,7 +29,3 @@ I occasionally write about **engineering, tooling, and architecture**.
 - 🧪 [Apollo Mocking Techniques](https://medium.com/@shtbik/apollo-mocking-techniques-e24e78cf6acb) — *Unleash Frontend Power — No API? No Problem*
 
 ➡️ More posts: [medium.com/@shtbik](https://medium.com/@shtbik)
-
----
-
-⭐ If you find my work useful, feel free to follow or connect!
