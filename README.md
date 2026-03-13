@@ -1,17 +1,36 @@
-### Hi there 👋
+# Hi there 👋 I'm Aleks
+
+Frontend-focused Software Engineer with 10+ years of experience building high-scale fintech and education platforms.    
+Passionate about systems-level design, performance optimisation, and creating shared foundations that empower teams to move faster.
+
+---
+
+## 🌐 Connect with me
 
 - 🌱 [LinkedIn](https://www.linkedin.com/in/shtbik/)
-<!--
-**shtbik/shtbik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ✍️ [Medium](https://medium.com/@shtbik)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📦 Open Source
+
+### scan-overrides
+
+[![npm version](https://img.shields.io/npm/v/scan-overrides)](https://www.npmjs.com/package/scan-overrides)
+[![npm downloads](https://img.shields.io/npm/dm/scan-overrides)](https://www.npmjs.com/package/scan-overrides)
+
+CLI tool that scans overrides entries in `package.json` and determines whether **CVE-related** overrides can be safely removed by running pnpm audit without them.
+
+---
+
+## ✍️ Articles
+
+I occasionally write about **engineering, tooling, and architecture**.
+
+- 🧪 [Apollo Mocking Techniques](https://medium.com/@shtbik/apollo-mocking-techniques-e24e78cf6acb) — *Unleash Frontend Power — No API? No Problem*
+
+➡️ More posts: [medium.com/@shtbik](https://medium.com/@shtbik)
+
+---
+
+⭐ If you find my work useful, feel free to follow or connect!
